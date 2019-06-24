@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.chchi.webview",
+    "sha256_cert_fingerprints":
+    ["60:A4:27:71:FC:33:FF:BC:C4:3E:6A:9F:8E:E6:2B:70:E9:23:F2:CB:48:2C:50:BB:57:5F:61:FE:0F:90:4A:34"]
+  }
+}]
